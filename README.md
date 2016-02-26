@@ -37,8 +37,9 @@ Typical identity is analogous to a passport or business card - absolute to the e
 * 2
 
 #### April 2016
-* 1
-* 2
+* Reference iOS App
+	* 
+* ActiveDirectory Integration
 
 #### May 2016
 * 1
