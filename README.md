@@ -63,7 +63,6 @@ Typical identity is analogous to a passport or business card - absolute to the e
 
 
 ## Contributors
-
 ### Contributors on GitHub
 * [Contributors](https://github.com/Team-Uniken/REL-ID/graphs/contributors)
 
