@@ -27,6 +27,7 @@ Typical identity is analogous to a passport or business card - absolute to the e
 ## API Specifications
 * For more information and specific function documentation of the new API SDK, please view our API reference material at https://api.relid.uniken.com
 
+<!--
 ## Live Examples
 * 1
 * 2
@@ -56,9 +57,7 @@ Typical identity is analogous to a passport or business card - absolute to the e
 #### August 2016
 * 1
 * 2
-
-
-
+-->
 
 
 
@@ -66,18 +65,20 @@ Typical identity is analogous to a passport or business card - absolute to the e
 ### Contributors on GitHub
 * [Contributors](https://github.com/Team-Uniken/REL-ID/graphs/contributors)
 
+<!--
 ### Third party libraries
 * [Libraries](https://github.com/Team-Uniken/REL-ID/blob/master/LIBRARIES.md)
-
+-->
 ## License 
 * [License](https://github.com/Team-Uniken/REL-ID/blob/master/LICENSE.md)
 * The above linked license is limited to the code provided as part of this repository. There is no warranty or liability offered for this code or any derivative.  All code or binary considered and released as part of the REL-IDcore (API SDK) is managed through separate, client-specific licensing guidelines and agreements.  Please email sales@uniken.com for more information.
 
+<!--
 ## Version History
 * [Version 2.0.2](https://github.com/Team-Uniken/REL-ID/blob/master/VERSION_HISTORY.md#v2.0.2)
 * [Version 2.0.1](https://github.com/Team-Uniken/REL-ID/blob/master/VERSION_HISTORY.md#v2.0.1)
 * [Version 2.0.0](https://github.com/Team-Uniken/REL-ID/blob/master/VERSION_HISTORY.md#v2.0.0)
-
+-->
 
 ## Contact
 #### Developer/Company
